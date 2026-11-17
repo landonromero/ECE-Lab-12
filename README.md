@@ -12,8 +12,10 @@ In this lab, you’ve learned about One Hot and Binary state machines and how to
 | Question 3 | Your answers to the question | 25% |
 
 ## Name
+Landon Romero and Evan Walther
 
 ## Summary
+In this lab we built two different implementations of the same state machine. The first implementations uses 5 bits while the second one uses 3. We used D flip flops to store data and change states based on current and past states.
 
 ## Lab Questions
 
